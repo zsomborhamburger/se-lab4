@@ -1,0 +1,3 @@
+GT4500,1,0,1,0    #create ship
+TORPEDO,SINGLE     #firing     
+TORPEDO,SINGLE     #firing
